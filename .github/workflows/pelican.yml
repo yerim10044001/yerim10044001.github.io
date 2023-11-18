@@ -3,7 +3,7 @@ name: Pelican Site CI/CD
 on:
   push:
     branches:
-      - main
+      - master
 
 permissions:
   contents: read
